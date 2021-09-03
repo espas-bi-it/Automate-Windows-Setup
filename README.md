@@ -8,3 +8,6 @@ You can automate Windows installation by using an answer file:
 1. Use this existing answer files or create your own with Windows System Image Manager (Windows SIM).
 2. Save the file as autounattend.xml on the root of a USB flash drive.
 3. On a new PC, insert a Windows installation USB flash drive, as well as the flash drive that contains Autounattend.xml and then boot the PC. When no other answer file is selected, Windows Setup searches for this file.
+
+** **
+From baj
